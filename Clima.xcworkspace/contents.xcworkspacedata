@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/eng.lolla/Desktop/GDG IOS DEV/Angela Course/13. Cocoapods, GPS, APIs, REST and Getting Web Content -  Weather App/Clima-iOS12/AlaaClima.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
